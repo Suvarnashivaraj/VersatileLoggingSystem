@@ -40,3 +40,4 @@ Steps-
    git clone https://github.com/Suvarnashivaraj/VersatileLoggingSystem.git 
 2. Build and run the solution
 3. Result logs will be found in the console file, in-memory, log.txt(in the solution folder- bin/Debug/net6.0(or net8.0, whichever you used).
+4. Click on Test in tool bar and click on run All tests to check unit tests
